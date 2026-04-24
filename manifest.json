@@ -1,0 +1,18 @@
+{
+  "name": "Checking Ledger",
+  "short_name": "Ledger",
+  "description": "Personal checking account ledger",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F9F3EE",
+  "theme_color": "#C9907A",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
